@@ -172,3 +172,4 @@ func handleRequest(ctx context.Context, evnt events.KinesisFirehoseEvent) (event
 func main() {
 	lambda.Start(handleRequest)
 }
+

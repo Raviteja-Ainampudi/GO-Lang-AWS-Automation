@@ -1,5 +1,5 @@
 # GO-Lang-Work
-GO Lang samples
+AWS - GO Lang - Samples
 
 *KinesisFirehoseEventsToLambda.go.go*
 
